@@ -1,0 +1,27 @@
+html {
+    height: 100%;
+}
+.body {
+	height: 100%;
+    margin: 0;
+    background-image: linear-gradient(to right top, #e39ec5, #d89fcf, #c9a0d8, #b8a2df, #a4a5e4, #93aeee, #7fb7f5, #69bff8, #52cffe, #41dfff, #46eefa, #5ffbf1);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.heading {
+	font-size: 50px;
+	color: lightpink;
+}
+.para {
+	font-size: 35px;
+	color: currentColor;	
+}
+.body-1 {
+	background-color: orange;
+}
+.body-2 {
+	background-color: purple;
+}
+.body-3 {
+    background-color: skyblue;
+}
